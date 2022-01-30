@@ -9,6 +9,8 @@ import Home from "./pages/HomePage";
 import SigninPage from "./pages/SigninPage";
 import SignupPage from "./pages/SignupPage";
 
+//added some basic comments
+
 //exact property to render the component only if the defined path matches the URL path exactly
 //<Switch> component to render only the first route that matches the location
 //use nested routes if you want to display different messages depending on the URL
